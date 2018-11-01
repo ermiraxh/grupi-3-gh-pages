@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Open Data Kosovo
 
 You can use the [editor on GitHub](https://github.com/ermiraxh/grupi-3-gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# HTML
+## CSS
+### Javascript
 
-- Bulleted
-- List
+- Ermira
+- Xhelili
 
-1. Numbered
-2. List
+1. _Ermira_
+2. **Xhelili**
 
 **Bold** and _Italic_ and `Code` text
 
